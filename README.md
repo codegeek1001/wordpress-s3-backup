@@ -16,3 +16,8 @@
 Alternatively, you can add a cron job to run daily. For example, to run it at 3 AM daily, add the following cron entry:
 
     00 2 * * * run_backups.sh
+
+## Future enhancements (Nice to have)
+
+- Automatically create an S3 bucket if a new cpanel/wordpress site is added on the server. Right now, the script requires the S3 bucket to exist othewrise will fail.
+- Add more exception/error handling. Right now, there isn't much
