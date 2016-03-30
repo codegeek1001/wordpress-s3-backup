@@ -1,4 +1,4 @@
-# Create backups of multiple wordpress sites on your server offline to Amazon S3 without using a plugin
+# Create offsite backups of multiple wordpress sites on your server to Amazon S3 without using a plugin
 
 # Requirements
 
