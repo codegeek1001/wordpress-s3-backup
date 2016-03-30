@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Directory that holds your WordPress sites' root folders
 PREFIX=/home
 
