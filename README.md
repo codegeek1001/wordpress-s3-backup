@@ -15,7 +15,7 @@
     
 Alternatively, you can add a cron job to run daily. For example, to run it at 3 AM daily, add the following cron entry:
 
-    00 2 * * * run_backups.sh
+    00 3 * * * run_backups.sh
 
 ## Future enhancements (Nice to have)
 
